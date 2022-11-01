@@ -1,0 +1,48 @@
+.right{
+    text-align: right;
+}
+
+.center{
+    text-align: center;
+}
+
+.middle{
+    vertical-align: middle;
+}
+
+.solid{
+    border-style: solid;
+}
+
+.s-blue{
+    border: 1px solid red;
+}
+
+.w-60px{
+    width: 60px;
+}
+
+.w-80{
+    width: 80%;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.font_c{
+    font-size: 12px;
+    
+}
+
+.h_red{
+    color: #e05858;
+}
+
+.h_gray{
+    color: #6c757d;
+}
+
+.underline{
+    text-decoration: underline;
+}
